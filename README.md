@@ -1,4 +1,4 @@
-# 🎟️ Assignment 12 — Event Management & Ticketing API
+# 🎟️ Event Management & Ticketing API
 
 A backend **Event Management & Live Ticketing REST API** built using **Node.js, Express.js and Firebase Firestore**.
 
