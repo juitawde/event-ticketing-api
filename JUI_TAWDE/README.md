@@ -39,7 +39,7 @@ The API allows:
 ## 📂 Project Structure
 
 ```text
-JUI_TAWDE/
+assignment-12-event-ticketing-api/
 │
 ├── config/
 │   ├── firebaseConfig.js
@@ -69,6 +69,8 @@ JUI_TAWDE/
 ├── README.md
 └── server.js
 ```
+
+> `serviceAccountKey.json` is intentionally not included in the repository/ZIP because it contains private Firebase credentials.
 
 ---
 
