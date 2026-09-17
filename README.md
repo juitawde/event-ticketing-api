@@ -4,6 +4,9 @@ A backend **Event Management & Live Ticketing REST API** built using **Node.js, 
 
 The project implements JWT authentication, role-based access control for **Organizer** and **Attendee**, atomic Firestore transactions for ticket booking, API rate limiting, and interactive Swagger/OpenAPI documentation.
 
+**Live Deployed Render Link:**
+https://event-ticketing-api-4hzw.onrender.com/
+
 ---
 
 ## 📌 Assignment Objective
